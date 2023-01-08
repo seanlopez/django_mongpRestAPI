@@ -1,0 +1,7 @@
+{
+  "mongo_port": "27017",
+  "mongo_address": "10.124.158.220",
+  "username": "admin",
+  "password": "123456",
+  "dbName": "ISEHealthCheck"
+}

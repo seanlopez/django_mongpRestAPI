@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39b72143-8a0d-40b8-bba7-6b4ccd6d5192" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LoEGenerator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoEGenerator/loesite/.idea/loesite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/.idea/crawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning/crawler_coding_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day2/day2_demo_page_collection/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day2/day2_demo_page_collection/day2_demo_page_collection_jd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day2/day2_demo_page_collection/jd_searching_html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day3/crawler_demo_baidu_fanyi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day4/crawler_demo_kfc_location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/crawler_learning_day5/crawler_web_image_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests_Use_case_Demo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/.idea/SecureXcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ISE_cli/entrance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ISE_cli/ise_cli_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ISE_cli/ise_connection_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ISE_cli/ise_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/.idea/cisco_psirt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/advisories_output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/advisoriy_outpu_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/cisco_psirt/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/.idea/ise_health_check.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/application_status_checking/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/application_status_checking/entrance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/application_status_checking/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/ise_show_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/ise_health_check/ports_status_checking/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/contentPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/extractTitle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/moloch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/moloch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/moloch_workflow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/rawHTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/scrapping01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecureXcode/kisa_scraping/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler_xpath/.idea/crawler_xpath.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler_xpath/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler_xpath/xpath_demo_01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler_xpath/xpath_demo_01/collect_products_info_from_jd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler_xpath/xpath_demo_02/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crawler_xpath/xpath_demo_02/download_all_word_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deco_demo/.idea/deco_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/cisco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation/mongoCRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation/mongoConnection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_mongo_rest/django_mongo_rest/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_mongo_rest/static/mongoInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_navigator_validation/.idea/django_navigator_validation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/.idea/django_session_validate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/Static/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/Static/cisco_log.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/django_session_validate/api_handler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/django_session_validate/api_handler/api_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/django_session_validate/api_handler/dictionary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/django_session_validate/api_handler/ise_configuration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/django_session_validate/api_handler/radius_client_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/django_session_validate/api_handler/sample_payload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/django_session_validate/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/group_creation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/multi_mac_add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/multi_mac_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/signIn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/signOut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/templates/single_mac_add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/.idea/firewallRuleTunningReport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/input/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/input/raw data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/input/test_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/output/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/raw_data_json_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/report_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/spreadsheet_editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/spreadsheet_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firewallRuleTunningReport/main/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmc_ips_tunning/.idea/fmc_ips_tunning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmc_ips_tunning/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmc_ips_tunning/main/entrance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmc_ips_tunning/main/fmc_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmc_ips_tunning/main/get_fmc_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmc_ips_tunning/main/get_ips_rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmc_ips_tunning/main/multiple_threading_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fmc_ips_tunning/main/output/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/.idea/gui_auto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/testing/api_client/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/testing/api_client/api_test_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/testing/keyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/testing/mouse_ctr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/testing/moyushenqi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/testing/moyushenqi_for_windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_auto/testing/opencv-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_mac_address_center/.idea/ise_mac_address_center.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_mac_address_center/mac_address_center/html_template/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_mac_address_center/mac_address_center/html_template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_mac_address_center/mac_address_center/mac_address_center/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_mac_address_center/mac_address_center/static/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_mac_address_center/mac_address_center/static/cisco_log.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/.idea/ise_similar_policy_creator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/csv_template/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/html_template/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/html_template/deployment_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/html_template/policy_set_selection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/html_template/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/input_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/api_handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/api_handlers/api_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/api_handlers/jinja2_templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/api_handlers/jinja2_templates/authorization_policy_payload_template.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/api_handlers/jinja2_templates/authorization_profile_payload_template.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/api_handlers/jinja2_templates/ise_info_jinja.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/api_handlers/simple_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/temp_testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/temp_testing/api_payload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/temp_testing/api_verify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/temp_testing/ise_configure.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/ise_similar_policy_creator/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ise_similar_policy_creator/ise_similar_policy_creator/static/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac_changing_for_adb/.idea/mac_changing_for_adb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac_changing_for_adb/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac_changing_for_adb/test_coding/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac_changing_for_adb/test_coding/api_payload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac_changing_for_adb/test_coding/api_verify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac_changing_for_adb/test_coding/change_group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac_changing_for_adb/test_coding/get_all_group_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mac_changing_for_adb/test_coding/ise_configure.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splunk/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splunk/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splunk/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splunk/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splunk/.idea/splunk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splunk/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splunk/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splunk/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/.idea/LoEGenerator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/LoETemplate/Security LoE Template v0.2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/loesite/LoETemplate/Security LoE Template v0.2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/html_template/downloadpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/loesite/html_template/downloadpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/html_template/ise_loe_generator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/loesite/html_template/ise_loe_generator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/loesite/editor/loe_editor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/loesite/loesite/editor/loe_editor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/loesite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/loesite/loesite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/loesite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/loesite/loesite/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/anz_Security_LoE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/natezhan_Security_LoE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/taiwan_Security_LoE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/tianyuan_Security_LoE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/urben_Security_LoE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/wangxue_Security_LoE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/wangxueadvanced_Security_LoE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/zhangliang_Security_LoE.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoEGenerator/readME.md" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/readME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ise-coa-assitant" beforeDir="false" afterPath="$PROJECT_DIR$/../ise-coa-assitant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../security_documents_auto" beforeDir="false" afterPath="$PROJECT_DIR$/../security_documents_auto" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2JtPjwBuKIEWVbOUOoY5MxK29c9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django_mongo_rest/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mongoConnection">
+    <configuration name="mongoConnection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django_mongo_rest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation/mongoConnection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django_mongo_rest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django_mongo_rest/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django_mongo_rest/api/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mongoConnection" />
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b72143-8a0d-40b8-bba7-6b4ccd6d5192" name="Changes" comment="" />
+      <created>1672894545721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672894545721</updated>
+      <workItem from="1672894549008" duration="3000" />
+      <workItem from="1672894585723" duration="6618000" />
+      <workItem from="1673095110966" duration="16607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django_mongo_rest$views.coverage" NAME="views Coverage Results" MODIFIED="1673149795427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django_mongo_rest/api" />
+    <SUITE FILE_PATH="coverage/django_mongo_rest$mongoConnection.coverage" NAME="mongoConnection Coverage Results" MODIFIED="1673151890529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation" />
+  </component>
+</project>
