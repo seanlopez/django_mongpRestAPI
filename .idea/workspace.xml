@@ -59,13 +59,6 @@
       <change afterPath="$PROJECT_DIR$/../crawler_xpath/xpath_demo_02/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../crawler_xpath/xpath_demo_02/download_all_word_template.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deco_demo/.idea/deco_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/cisco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation/mongoCRUD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/mongoOperation/mongoConnection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_mongo_rest/api/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_mongo_rest/django_mongo_rest/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_mongo_rest/static/mongoInfo.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../django_navigator_validation/.idea/django_navigator_validation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../django_session_validate/django_session_validate/.idea/django_session_validate.iml" afterDir="false" />
@@ -182,6 +175,8 @@
       <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/wangxueadvanced_Security_LoE.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../LoEGenerator/loesite/output_LoE/zhangliang_Security_LoE.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../LoEGenerator/readME.md" beforeDir="false" afterPath="$PROJECT_DIR$/../LoEGenerator/readME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ise-coa-assitant" beforeDir="false" afterPath="$PROJECT_DIR$/../ise-coa-assitant" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../security_documents_auto" beforeDir="false" afterPath="$PROJECT_DIR$/../security_documents_auto" afterDir="false" />
     </list>
@@ -198,7 +193,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2JtPjwBuKIEWVbOUOoY5MxK29c9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -279,7 +274,7 @@
       <updated>1672894545721</updated>
       <workItem from="1672894549008" duration="3000" />
       <workItem from="1672894585723" duration="6618000" />
-      <workItem from="1673095110966" duration="16607000" />
+      <workItem from="1673095110966" duration="17852000" />
     </task>
     <servers />
   </component>

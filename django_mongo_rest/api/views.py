@@ -39,7 +39,7 @@ def create_document(request, *args, **kwargs):
         # receive the post body from the request
         document = json.loads(request.body)
 
-        print(document)
+        # print(document)
 
         # receive the collection name from headers
         headers = request.headers
